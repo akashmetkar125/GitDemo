@@ -19,13 +19,14 @@ public class EndOfWork {
 			System.out.println("Remaining colors return");
 			System.out.println("Remaining colors return");
 			System.out.println("Jay Hind");
-			
-			
-			
-			
+		
 		}
 		
-		
+		public void Jira() {
+			
+			System.out.println("Post Jira 1");
+			System.out.println("Post Jira 2");
+		}
 		
 	}
 
