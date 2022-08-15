@@ -21,5 +21,9 @@ public void Brand() {
 	System.out.println("Asian Paints");
 }
 
+public void finish() {
+	
+	System.out.println("Finishing at the last");
+}
 
 }
